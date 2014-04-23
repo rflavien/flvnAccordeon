@@ -5,9 +5,7 @@ Plugin jQuery 1.5+ pour créer un accordeon.
 
 Installation
 --------------
-Télécharger le fichier flvnAccordeon.js et le lier à voter page.
-
-Ensuite il faut copier les lignes suivantes dans le head de voter page.
+Il faut placer les lignes suivantes dans le header de votre page.
 ##### Si vous avez déjà jQuery 1.5+
 ```html
 <script src="flvnAccordeon.js"></script>
